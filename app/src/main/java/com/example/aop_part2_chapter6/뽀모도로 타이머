@@ -1,0 +1,19 @@
+<뽀모도로 타이머 만들기>
+
+1. 1-60분까지 타이머를 설정할 수 있다.
+
+2. 1초마다 화면을 갱신할 수 있다.
+
+3. ticking 소리와 타이머 종료시 알림음 동작
+
+<사용 기술>
+- ConstraintOutLayout
+- ConutDownTimer
+- SoundPool
+
+
+GitHub 주소
+= Fastcampus-Android-Lecture-Project-2021/aop-part2-chapter06
+
+ticking sound downloat
+ https://www.soundjay.com/clock-sounds-1.html
